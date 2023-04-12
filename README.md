@@ -1,6 +1,5 @@
 # Schoolmanagement
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
+
 ## screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/homepage.png?raw=true)
